@@ -1,6 +1,5 @@
 .DS_Store
 .git
-lib/
 examples/
 node_modules/
 index.ts

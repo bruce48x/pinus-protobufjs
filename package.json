@@ -1,6 +1,6 @@
 {
   "name": "pinus-protobufjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "使用 protobufjs，取代 pinus-protobuf 所提供的魔改 protobuf",
   "main": "./dist/protobuf",
   "types": "./src/protobuf",
